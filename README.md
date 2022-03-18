@@ -1,4 +1,6 @@
 ## Salve Salve
+<p align="left">
+    <img src="https://discord.c99.nl/widget/theme-4/405853277046046720.png" />
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
