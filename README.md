@@ -4,6 +4,7 @@
 
 <p align="left">
     <img src="https://discord.c99.nl/widget/theme-4/405853277046046720.png" />
+    <h2>Perfil de estudante</h2>
     <hr>
 <h3>Conhecimentos :</h3>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
