@@ -1,14 +1,12 @@
 <!-- Edição de Perfil INICIO -->
 
-<!-- ### Salve -->
-
 <h2>Perfil de estudante</h2>
 <p align="left">
     <img src="https://discord.c99.nl/widget/theme-4/405853277046046720.png" />
     <hr>
 <h3>Conhecimentos :</h3>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <hr>
 <div>
