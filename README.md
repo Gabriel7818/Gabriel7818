@@ -19,7 +19,9 @@
 <h3>Redes Sociais :</h3>    
 <a href="https://discord.gg/exX6rNenXq"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://mypst.com.br/rank/Gabrielzim_-/?game_id=NPWR07053_00#!jogos/NPWR07053_00"> <img alt="Playstation" src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
-</a>    
+</a>
+<a href="https://www.facebook.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="25" height="25" /></a>
+
 
     
 <!-- Edição de Perfil FIM -->
