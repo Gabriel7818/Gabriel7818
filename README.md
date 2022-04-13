@@ -21,7 +21,7 @@
 <a href="https://mypst.com.br/rank/Gabrielzim_-/?game_id=NPWR07053_00#!jogos/NPWR07053_00"> <img alt="Playstation" src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
 </a>
 <hr>
-<a href="https://www.facebook.com"> <img src="https://media.discordapp.net/attachments/910319741179150336/963601729239253002/unknown.png?width=559&height=559" /></a>
+
 
 
     
