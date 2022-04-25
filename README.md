@@ -3,9 +3,10 @@
 <h3 align="center">Olá, Meu nome é Gabriel Oliveira !</h3>
 <hr>
 <div align="center">
-    <h3>Analises do GitHub:</H3>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Gabriel7818&show_icons=true&custom_title=Gabriel Oliveira&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=ffffff" alt="Grafico de Postagens"/>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel7818&layout=compact&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=ffffff&show_icons=true&custom_title=Linguagens mais desenvolvidas" alt="Grafico de Linguagens"/>
+    <h3>Analises do GitHub</H3>
+    <br>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Gabriel7818&show_icons=true&custom_title=Estatisticas do perfil&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=ffffff" alt="Grafico de Postagens"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel7818&layout=compact&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=ffffff&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
     <hr>
 <h3 align="center">Conhecimentos</h3>
     <div align="center">
@@ -15,8 +16,9 @@
 <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)"> <img alt="ReactJS" src="https://img.shields.io/badge/ReactJs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
 <a href="https://pt.wikipedia.org/wiki/MySQL"> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <a href="https://pt.wikipedia.org/wiki/Git"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end)"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+<a href="https://pt.wikipedia.org/wiki/Node.js"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
     </div>
-    <br>
     <h3 align="center">Programas em uso</h3>
     <div align="center">
 <a href="https://pt.wikipedia.org/wiki/Adobe_Illustrator"> <img alt="Illustrator" src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></a>
@@ -26,7 +28,7 @@
 <a href="https://en.wikipedia.org/wiki/Replit"> <img alt="Repl.it" src="https://camo.githubusercontent.com/aa7b2698a8a2901c8b6f9b1a0107045ff09d55d84bec961a19c2b70b7a421a81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265706c2e69742d2532333044313031452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265706c6974266c6f676f436f6c6f723d7768697465"/>
     </div>
     <hr>
-<h3 align="center">𝑅𝑒𝑑𝑒𝑠 𝑆𝑜𝑐𝑖𝑎𝑖𝑠 :</h3>
+<h3 align="center">Redes Sociais</h3>
     <div align="center">
 <a href="https://discord.gg/exX6rNenXq"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://mypst.com.br/rank/Gabrielzim_-/?game_id=NPWR07053_00#!jogos/NPWR07053_00"> <img alt="Playstation" src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
