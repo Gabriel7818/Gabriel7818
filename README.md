@@ -4,11 +4,11 @@
 <hr>
 <div align="center">
     <h3>Analises do GitHub:</H3>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Gabriel7818&show_icons=true&custom_title=Gabriel Oliveira&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=ffffff" alt="Grafico de Postagens"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Gabriel7818&show_icons=true&custom_title=Gabriel Oliveira&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=ffffff" alt="Grafico de Postagens"/>
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel7818&layout=compact&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=ffffff&show_icons=true&custom_title=Linguagens mais desenvolvidas" alt="Grafico de Linguagens"/>
     <hr>
-<h3 align="center">𝐶𝑜𝑛ℎ𝑒𝑐𝑖𝑚𝑒𝑛𝑡𝑜𝑠 | 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑎𝑠 𝑞𝑢𝑒 𝑢𝑡𝑖𝑙𝑖𝑧𝑜:</h3>
-    <div align="left">
+<h3 align="center">Conhecimentos</h3>
+    <div align="center">
 <a href="https://pt.wikipedia.org/wiki/HTML5"> <img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://pt.wikipedia.org/wiki/CSS3"> <img alt="Css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://pt.wikipedia.org/wiki/JavaScript"> <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
@@ -17,7 +17,8 @@
 <a href="https://pt.wikipedia.org/wiki/Git"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
     </div>
     <br>
-    <div align="right">
+    <h3 align="center">Programas em uso</h3>
+    <div align="center">
 <a href="https://pt.wikipedia.org/wiki/Adobe_Illustrator"> <img alt="Illustrator" src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></a>
 <a href="https://pt.wikipedia.org/wiki/Adobe_Photoshop"> <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>
 <a href="https://pt.wikipedia.org/wiki/Figma"> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
@@ -34,7 +35,7 @@
 <a href="#"> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
     </div>
     <div align="center">
-<img src="https://discord.c99.nl/widget/theme-4/405853277046046720.png"/>
+<img width="45%" src="https://discord.c99.nl/widget/theme-4/405853277046046720.png"/>
     </div>
     <br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Gabriel7818&style=flat-square" alt="Contador de Visitantes"/></p>
