@@ -5,7 +5,7 @@
 <div align="center">
     <h3>Analises do GitHub</H3>
     <br>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Gabriel7818&show_icons=true&custom_title=Estatisticas do perfil&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=ffffff&border_color=ffffff" alt="Grafico de Postagens"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Gabriel7818&show_icons=true&theme=radical" alt="Grafico de Postagens"/>
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel7818&layout=compact&title_color=ffffff&bg_color=161B22&text_color=11bbb2&count_private=true&icon_color=11bbb2&border_color=ffffff&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
     <hr>
 <h3 align="center">Conhecimentos</h3>
@@ -33,8 +33,9 @@
 <a href="https://discord.gg/exX6rNenXq"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://mypst.com.br/rank/Gabrielzim_-/?game_id=NPWR07053_00#!jogos/NPWR07053_00"> <img alt="Playstation" src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
 </a>
-<a href="#"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="#"> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/gabriel7818_/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/gabriel.oliveiradamasceno/"> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gabriel-oliveira-9aa861235/" <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     </div>
     <div align="center">
 <img width="45%" src="https://discord.c99.nl/widget/theme-4/405853277046046720.png"/>
